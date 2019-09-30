@@ -1,3 +1,16 @@
 # Description of your program (part 7)
+1. Read in the document file
+2. Create a variable for storing the number of words in the document
+3. Starting at the beginning of the document, scan through the document, incrementing the variable after each word
+4. Distinguish words by detecting every occurrence of whitespace
+5. At the end of the document, the variable will have the total number of words
 
 # Reflection on writing your program (part 8)
+# The previous exercise was a little challenging because it required me to think of the differences between how humans
+# and computers think. It's tricky to describe the actions that a computer would take in English because you have to
+# write out all of the intricate steps that a computer goes through when executing a task.
+# Overall, I found this exercise interesting and helpful because it shows how while people can figure what you mean
+# when reading instructions, computers need complete directions in the correct format to run a program correctly.
+
+# From this course, I hope to develop strong Python skills that will help me in my future career.
+# I also want to learn to apply this coding knowledge to design applications and interfaces that can solve human problems.

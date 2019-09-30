@@ -36,7 +36,7 @@ def hello():
 
 hello()
 print("... Let's say that again... \n")
-hello()
+
 
 # Step 2: Now try deleting the second hello(). Save the file.
 # Run the program again to see the results.
@@ -45,7 +45,7 @@ hello()
 # below this line. Try using the auto-complete feature. After
 # you type "hel", possible completions should appear.
 # Use the arrow keys or the mouse to select, and hit enter.
-
+hello()
 # Save the file. Run it again to see the results.
 
 # Step 4: Now, try a Python program that uses variables. Uncomment
@@ -53,11 +53,11 @@ hello()
 # in the values for length, width, height, and your name.
 # Then save and run the program again.
 
-# length = 0
-# width = 0
-# height = 0
+length = 54
+width = 10
+height = 35
 #
-# me = "<your name here>"
+# me = "<Nigel Fernandes>"
 # print("Volume =", width * length * height)
 # print("My name is", me)
 
